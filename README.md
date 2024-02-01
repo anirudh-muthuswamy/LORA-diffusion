@@ -10,17 +10,10 @@ Details
 
 ## Repository Highlights
 
-- Project Report - "cs7180-AnirudhGuganAditya-FinalProject.pdf"
-- Presentation - "CS7180-FinalProject-Presentation.pdf"
 - Presentation Video Link - https://drive.google.com/file/d/1-Q1rFYcKoLLUWeFGq7emhFF3-wyjemnw/view?usp=sharing
 - Demo Notebook- "training_exp.ipynb"
 - Source Code - in the files and folders inside ./src/
-
-## Authors
-- Anirudh Muthuswamy, NUID - 002783250
-- Gugan Kathiresan, NUID -002756523
-- Aditya Shanmugham, NUID - 002724777
-
+  
 ## Operating System
 - Google Colab Pro Ubuntu / T4 GPU
 - Discovery Cluster Jupyter Notebook / V100 GPU
