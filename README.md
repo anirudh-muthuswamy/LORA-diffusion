@@ -4,9 +4,6 @@ This is the submission for
 
 The Final Project
 for the course "CS7180 Advanced Perception"
-The link for this repo - https://github.khoury.northeastern.edu/anirudhmuthu/CS7180-FinalProject
-
-13th December 2023
 
 ---------------------------------------------
 Details
