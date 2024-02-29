@@ -10,7 +10,7 @@ Details
 
 ## Repository Highlights
 
-- Presentation Video Link - https://drive.google.com/file/d/1-Q1rFYcKoLLUWeFGq7emhFF3-wyjemnw/view?usp=sharing
+
 - Demo Notebook- "training_exp.ipynb"
 - Source Code - in the files and folders inside ./src/
   
