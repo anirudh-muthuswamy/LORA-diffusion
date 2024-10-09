@@ -5,6 +5,8 @@ This is the submission for
 The Final Project
 for the course "CS7180 Advanced Perception"
 
+Collaborators: Aditya Varshney, Anirudh Muthuswamy, Gugan Kathiresan
+
 # Low-Rank Adaptation for Image Super-Resolution
 This project aims to apply the Low-Rank Adaptation (LoRA) technique to efficiently fine-tune and optimize complex deep learning models for the task of single image super-resolution (SISR). As state-of-the-art SISR models continue to grow in size and complexity, traditional fine-tuning methods become computationally expensive and time-consuming. LoRA offers a promising solution by drastically reducing the number of trainable parameters while preserving model performance.
 Approach
@@ -33,8 +35,6 @@ Analyzing the generalization capabilities of LoRA-optimized models across divers
 Details
 
 ## Repository Highlights
-
-
 - Demo Notebook- "training_exp.ipynb"
 - Source Code - in the files and folders inside ./src/
   
@@ -61,6 +61,4 @@ In your command line
 > !python ./src/main.py
 
 
-## Time Travel Days
-- None Used
 
